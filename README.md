@@ -1,4 +1,4 @@
-# 🔐 Smart Door Controller
+# 🔐 Smart Door
 
 A smart, keyless door system using Raspberry Pi, facial recognition, and a mobile app for secure access.
 
@@ -56,7 +56,7 @@ A smart, keyless door system using Raspberry Pi, facial recognition, and a mobil
 2. Install libraries:  
    `pip install opencv-python face-recognition imutils paho-mqtt gpiozero`
 3. Run with:  
-   `python3 smart_door_controller.py`
+   `python3 smart_door.py`
 
 ## 👥 Authors
 
