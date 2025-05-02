@@ -60,6 +60,5 @@ A smart, keyless door system using Raspberry Pi, facial recognition, and a mobil
 
 ## 👥 Authors
 
-- Hye Chan Lee  
+- Hye Chan Lee 
 - Clive Amoh  
-CS 326 - Calvin University
