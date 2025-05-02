@@ -2,6 +2,8 @@
 
 A smart, keyless door system using Raspberry Pi, facial recognition, and a mobile app for secure access.
 
+![Smart Door Hardware Setup](/diagrams/wirings.jpg)
+
 ## 🚀 What It Does
 
 - Detects motion with a sensor.
